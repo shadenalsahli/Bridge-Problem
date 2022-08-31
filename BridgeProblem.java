@@ -9,7 +9,7 @@ public static void main(String [] args) throws IOException {
 	
 	Algorithm usc= Algorithm.UCS;
 	
-	String filename="/Users/shaden/Desktop/Untitled.txt";
+	String filename="Input.txt";
 	
 	ArrayList<Set<Integer>> UcsSolve=ProblemSolver1.solve(filename, usc);
 
